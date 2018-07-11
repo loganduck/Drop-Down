@@ -11,7 +11,7 @@ import javax.swing.SwingUtilities;
  * Implements a drop down menu inside of the JFrame. 
  * Button click shows the option selected by the user.
  * @author LoganDuck (logan.duck@yahoo.com)
- * @version
+ * @version 07/11/18
  */
 public class DropDown extends JFrame implements ActionListener {
 	private static final long serialVersionUID = 1L;
